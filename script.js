@@ -1,6 +1,6 @@
 const CONFIG = {
-    serverLogoLight: "https://ui-avatars.com/api/?name=LS&background=fff&color=22c55e&rounded=true&bold=true&border=1",
-    serverLogoDark: "https://ui-avatars.com/api/?name=LS&background=000&color=22c55e&rounded=true&bold=true",
+    serverLogoLight: "img/logo.png",
+    serverLogoDark: "img/logo.png",
     teamLogos: {
         "Pepe Shneine": "https://ui-avatars.com/api/?name=PS&background=f59e0b&color=fff&rounded=true&bold=true",
         "NoSmurfs": "https://ui-avatars.com/api/?name=NS&background=3b82f6&color=fff&rounded=true&bold=true",
